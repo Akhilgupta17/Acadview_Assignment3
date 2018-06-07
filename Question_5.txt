@@ -1,0 +1,12 @@
+A=['apple','microsoft','google']
+print(A)
+A.sort()
+print(A)
+B=['amazon','flipkart','olx']
+print(B)
+B.sort
+print(B)
+C=A+B
+print(C)
+c.sort()
+print(C)
