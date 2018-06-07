@@ -1,0 +1,6 @@
+list=[1,2,5,3,7,4]
+print(list)
+list.sort()
+print(list)
+                 
+
